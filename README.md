@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Katja Runge Olivera
+- I’m currently working as a frontend developer and I'm also a former designer
